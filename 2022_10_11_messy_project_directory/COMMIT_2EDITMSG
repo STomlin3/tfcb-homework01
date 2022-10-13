@@ -1,0 +1,31 @@
+#
+# 
+commit2
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   2022_10_11_messy_project_directory/.DS_Store
+#	renamed:    Survey Data.xlsx -> 2022_10_11_messy_project_directory/2022_10_11_datasets/2022_10_11_survey_data.xlsx
+#	renamed:    get_dataset.py -> 2022_10_11_messy_project_directory/2022_10_11_datasets/get_dataset.py
+#	renamed:    get Species_list.py -> 2022_10_11_messy_project_directory/2022_10_11_datasets/get_species_list.py
+#	renamed:    main.py -> 2022_10_11_messy_project_directory/2022_10_11_datasets/main.py
+#	renamed:    predict_image.py -> 2022_10_11_messy_project_directory/2022_10_11_datasets/predict_image.py
+#	renamed:    casent0172345 Rhytidoponera metallica.jpg -> 2022_10_11_messy_project_directory/2022_10_11_hw1_images/casent_0172345_rhytidoponera_metallica.jpg
+#	renamed:    casent.   -  0191696 Camponotus darwinii .jpg -> 2022_10_11_messy_project_directory/2022_10_11_hw1_images/casent_0191696_camponotus_darwinii.jpg
+#	renamed:    casent0901788_p_1_high Acanthomyrmex ferox.jpg -> 2022_10_11_messy_project_directory/2022_10_11_hw1_images/casent_0901788_p_1_high_acanthomyrmex_ferox.jpg
+#	renamed:    casent0906296_p_1_high. -- Cataglyphis fortis.jpg -> 2022_10_11_messy_project_directory/2022_10_11_hw1_images/casent_0906296_p_1_high_cataglyphis fortis.jpg
+#	new file:   2022_10_11_messy_project_directory/2022_10_11_source_code/.DS_Store
+#	renamed:    docker-compose.debug.yml -> 2022_10_11_messy_project_directory/2022_10_11_source_code/2022_10_11_docker/docker-compose.debug.yml
+#	renamed:    docker-compose.yml -> 2022_10_11_messy_project_directory/2022_10_11_source_code/2022_10_11_docker/docker-compose.yml
+#	renamed:    Dockerfile -> 2022_10_11_messy_project_directory/2022_10_11_source_code/2022_10_11_docker/dockerfile
+#
+# Changes not staged for commit:
+#	modified:   .DS_Store
+#	modified:   2022_10_11_messy_project_directory/.DS_Store
+#
